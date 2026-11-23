@@ -1,0 +1,22 @@
+{
+  "id": "atippopularity",
+  "title": "The ATIP Popularity Index",
+  "description": "See which released records received the most informal copy requests.",
+  "category": "explorers",
+  "tags": [
+    "ati",
+    "foi",
+    "statistics",
+    "informal"
+  ],
+  "icon": "list-ordered",
+  "url": "/atippopularity/",
+  "source": "https://github.com/jsdyer/atippopularity",
+  "hosting": "project",
+  "access": "browser",
+  "data_info": {
+    "mode": "snapshot",
+    "detail": "Treasury Board records how often people request copies of previously released access-to-information packages.",
+    "cadence": "Daily"
+  }
+}

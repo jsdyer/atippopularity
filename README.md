@@ -1,5 +1,9 @@
 # ATIP Popularity Index
 
+<!-- coolcode:guide -->
+Choose a reporting period and search a topic, reference or institution to find packages whose copies were requested. Counts describe that informal-request channel and period, not unique readers or the date the original records were released.
+<!-- /coolcode:guide -->
+
 A browser-only search and ranking tool for the Treasury Board of Canada Secretariat's [ATI informal requests per summary](https://open.canada.ca/data/en/dataset/2916fad5-ebcc-4c86-b0f3-4f619b29f412/resource/e664cf3d-6cb7-4aaa-adfa-e459c2552e3e) dataset. Published at <https://coolcode.ca/atippopularity/> when GitHub Pages deployment succeeds.
 
 Search titles, request references and institutions, select a period, see package counts and follow links to the government summary or the CoolCode ATIP Explorer. The reporting periods are the months when copies of completed records were requested. They are distinct from the dates those records were first released. The counts do not identify distinct requesters and only represent the informal-request channel covered by the published resource. Untabulated periods and packages are unavailable.
